@@ -3,7 +3,6 @@ My calculus II course notes and solved problems from Krista King's Calculus II c
 
 
 # Table of contents
--
 - [01 Formula Sheet](src/01_Formula_Sheet/Calculus_2.formulas.pdf)
 - [02 Notes](src/02_Notes/)
   * [Notes by section](src/02_Notes/Notes%20by%20section/)
@@ -19,16 +18,6 @@ My calculus II course notes and solved problems from Krista King's Calculus II c
   * [Practice Exam #1](src/05%20Final%20Exams/01%20Practice%20Exam%20#1/)
   * [Practice Exam #1](src/05%20Final%20Exams/02%20Practice%20Exam%20#2/)
   * [Practice Exam #1](src/05%20Final%20Exams/03%20Final%20Exam/)
-2. Integrals
-    2.1 Antiderivatives and indefinite integrals
-
-3. Applications of Integrals
-
-4. Polar & Parametric
-
-5. Sequences & Series
-
-## Gallery
 
 ## License
 This project is licensed under the [GNU LESSER GENERAL PUBLIC LICENSE](https://github.com/francisco-oro/calculus-2/blob/main/LICENSE)
